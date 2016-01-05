@@ -1,6 +1,6 @@
 {
   "name": "sendgrid-contacts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Node wrapper for Sendgrid's contacts API",
   "main": "index.js",
   "scripts": {
